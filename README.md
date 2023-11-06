@@ -111,8 +111,6 @@ After the module is loaded and the `tc` settings are applied, you can manage the
   booktitle={2019 IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN)}, 
   title={Pulser: Fast Congestion Response Using Explicit Incast Notifications for Datacenter Networks}, 
   year={2019},
-  volume={},
-  number={},
   pages={1-6},
   doi={10.1109/LANMAN.2019.8847075}}
 ```
